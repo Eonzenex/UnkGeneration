@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnkGeneration",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "EonZeNx",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnkGeneration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
